@@ -1,6 +1,6 @@
 Hello-World
 ===========
 
-my first repository
-
+My first repository
 This is the beginning of a beautiful friendship.
+Change is inevitable
